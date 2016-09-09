@@ -89,7 +89,7 @@ include('menu.php');
   <!-- end wrap --> 
 </header>
 <!-- end header -->
-<section class="about-us section-space">
+<section class="icon-features about-us section-space">
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-1 text-center">
@@ -101,7 +101,7 @@ We provide digital marketing ideas and support to the brands and help them get t
 	  
 	  
 	  <!-- end col-8 -->
-	  <div class="col-md-10 col-md-offset-1 text-center">
+	  <div class="col-md-10 col-md-offset-1 text-center ">
       <div class="col-sm-4"> <img src="images/2.svg" alt="Image">
         <h4>Who we are?</h4>
         <p>A team of creative minds who believe in out of the box thinking and got a very high caffeine quotient in their system. More challenging the projects, more excited and happier we are… </p>

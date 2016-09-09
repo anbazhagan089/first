@@ -147,7 +147,7 @@ include('menu.php');
       <!-- end col-8 -->
       <div class="col-sm-4"> <img src="images/2.svg" alt="Image">
         <h4>Who we are?</h4>
-        <p>A team of creative minds who believe in out of the box thinking and got a very high caffeine quotient in their system. More challenging the projects, more excited and happier we are… </p>
+        <p>A team of creative minds who believe in out of the box thinking and got a very high caffeine quotient in our systems. More challenging the projects, more excited and happier we are…" 2) under "what we are upto?" change the content to ... We create and develop digital marketing ideas for our clients. Our focus is to provide the best ROI possible and client delight, in the form of high traffic to websites, sustaining higher engagement rates and generating quality leads. 3) under "Where we want to be" change the content to.... "To grow together along with our clients and would like to see ourselves as the digital media partner for the topmost brands." 4) In the second banner section, change "Video Creation" to "Videos". 5) Under "Our Works" section change the content "Enjoys music, interests in photography and offers its clients the best profitable projects for them" to "We provide our clients the best profitable projects". 6)Change the "SEE ALL WORKS" to "CHECKOUT OUR WORKS </p>
       </div>
       <!-- end col-4 -->
       <div class="col-sm-4"> <img src="images/1.svg" alt="Image">

@@ -63,7 +63,7 @@ include('menu.php')
 
 ?>
 <header class="inner">
- 	<div class="content background-img1 overlay">
+ 	<div class="content overlay">
     		<div class="centered">
           <h1>Ready for success?</h1>
           <h5>NOW IT'S EASY TO REACH US</h5>

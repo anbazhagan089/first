@@ -46,7 +46,7 @@ include('menu.php');
 ?>
 <!-- Menu ends -->
 <header class="inner">
- 	<div class="content  overlay">
+ 	<div class="content overlay">
     		<div class="centered">
           <h1>Team</h1>
           <h5>We are good in Branding</h5>

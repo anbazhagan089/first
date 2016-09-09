@@ -63,7 +63,7 @@ include('menu.php');
 ?>
 <!-- Menu ends -->
 <header class="inner">
- 	<div class="content background-img1 overlay">
+ 	<div class="content overlay">
     		<div class="centered">
           <h1>Services</h1>
           <h5>The Services We Provide</h5>

@@ -749,10 +749,8 @@ header.inner h5,{
 
 .wpcf7-form textarea {
     display: block;
-    border-bottom: 1px solid #e8e8e8;
-    border-top: transparent;
-    border-left: transparent;
-    border-right: transparent;
+    border: 1px solid #e8e8e8;
+   
     box-shadow: none;
     padding: 12px 18px;
     outline: 0;
@@ -817,10 +815,8 @@ header.inner h5,{
 input.wpcf7-text {
     height: 46px;
     width: 100%;
-    border-bottom: 1px solid #e8e8e8;
-    border-top: transparent;
-    border-left: transparent;
-    border-right: transparent;
+    border: 1px solid #e8e8e8;
+ 
     outline: 0;
     box-shadow: none;
     padding: 12px 18px;

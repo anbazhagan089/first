@@ -5,25 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A10 Digital Branding</title>
-<meta name="author" content="A10 digital">
-<meta name="description" content="A10 digital - bangalore">
-<meta name="keywords" content="branding company, Bangalore">
 
-<!-- SOCIAL MEDIA META -->
-<meta property="og:description" content="A10 digital - bangalore">
-<meta property="og:image" content="">
-<meta property="og:site_name" content="A10">
-<meta property="og:title" content="A10">
-<meta property="og:type" content="website">
-<meta property="og:url" content="">
-
-<!-- TWITTER META -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@a10">
-<meta name="twitter:creator" content="@a10">
-<meta name="twitter:title" content="Zer0">
-<meta name="twitter:description" content="A10 digital ">
-<meta name="twitter:image" content="">
 
 <!-- CSS Files -->
 <link href="css/bootstrap.css" rel="stylesheet">
@@ -139,7 +121,7 @@ include('menu.php')
 <div class="contact-icon">
 		<i class="icon_mail"></i>
 		<h3>E-MAIL</h3>
-		<p><a href="mailto:hello@a10digital.com">hello@a10digital.com</a></p>
+		<p><a href="mailto:anto@a10digital.com">anto@a10digital.com</a></p>
 	</div><div class="vc_empty_space" style="height: 15px"><span class="vc_empty_space_inner"></span></div>
 <div class="contact-icon">
 		<i class="icon_map"></i>

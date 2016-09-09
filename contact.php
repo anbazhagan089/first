@@ -35,7 +35,7 @@ include('extra_head.php');
 
 
 </head>
-<body>
+<body >
 <div class="loader"> <svg class="spinner" id="pageloader_anime" width="32px" height="32px" viewBox="0 0 66 66" xmlns="http://www.w3.org/2000/svg">
   <circle class="path" fill="none" stroke-width="6" stroke-linecap="round" cx="33" cy="33" r="30"></circle>
   </svg> </div>
@@ -86,18 +86,14 @@ include('menu.php')
 			<div role="form" class="wpcf7" id="wpcf7-f1717-p18-o1" lang="en-US" dir="ltr">
 <div class="screen-reader-response"></div>
 <form action="/en/#wpcf7-f1717-p18-o1" method="post" class="wpcf7-form" novalidate="novalidate">
-<div style="display: none;">
-<input type="hidden" name="_wpcf7" value="1717">
-<input type="hidden" name="_wpcf7_version" value="4.4.2">
-<input type="hidden" name="_wpcf7_locale" value="en_US">
-<input type="hidden" name="_wpcf7_unit_tag" value="wpcf7-f1717-p18-o1">
-<input type="hidden" name="_wpnonce" value="09ec97fa13">
-</div>
-<p><span class="wpcf7-form-control-wrap your-name"><input type="text" name="your-name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name*"></span></p>
-<p><span class="wpcf7-form-control-wrap your-email"><input type="email" name="your-email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail*"></span> </p>
-<p><span class="wpcf7-form-control-wrap your-phone"><input type="text" name="your-phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Phone"></span></p>
-<p><span class="wpcf7-form-control-wrap your-message"><textarea name="your-message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message or request"></textarea></span> </p>
-<p><input type="submit" value="Send message" class="wpcf7-form-control wpcf7-submit"><img class="ajax-loader" src="https://zerocreative.com/en/wp-content/plugins/contact-form-7/images/ajax-loader.gif" alt="Sending ..." style="visibility: hidden;"></p>
+
+<p><span class="your-name"><input type="text" id="name" name="name" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-validates-as-required" aria-required="true" aria-invalid="false" placeholder="Name*"></span></p>
+<p><span class="your-email"><input type="email" id="email"  name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail*"></span> </p>
+<p><span class="your-phone"><input type="text" name="phone" id="phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Phone*"></span></p>
+<p><span class="your-message"><textarea id="message" name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message or request"></textarea></span> </p>
+<p><input type="button" id="ask_submit" value="Send message" id="ask_submit">
+<img class="ajax-loader" src="images/ajax-loader.gif" alt="Sending ..." style="display:none;"></p>
+
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
 			</div>
 			
@@ -106,7 +102,7 @@ include('menu.php')
 			<!-- form-->
 			 <div class="col-md-5">
 			
-			<div class="vc_column-inner "><div class="wpb_wrapper">
+			<div class="vc_column-inner "><div class="wpb_wrapper" style="font-family:'Montserrat', sans-serif; ">
 	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_top-to-bottom wpb_start_animation">
 		<div class="">
 		
@@ -219,7 +215,79 @@ var markers = [
         }
     }
 	/* Google Maps API ends here */
+
+
+ 
+$("#ask_submit").click(function(e) {
+					
+  var name=$("#name").val();
+  var email=$("#email").val();
+  var phone=$("#phone").val();
+  var message=$("#message").val();
+  var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+  var loy=$("#loy").val();      
+  
+  	if((name.length)<2) {
+		$("#name").focus();
+		return false;
+		}
+        
+		if((email.length)<2) {
+		
+        
+        $("#email").focus();
+		return false;
+		}else{
+            if(regex.test(email)){
+                
+            }else{
+                $("#email").focus();
+                return false;
+            }
+        }
+		
+		if((phone.length)<2) {
+		$("#phone").focus();
+		return false;
+		}
+    $(".ajax-loader").show();
+      
+  //return false;
+    $.post("ajax/feedback.php",
+			{
+			
+              name:name,
+			  email:email,
+              phone:phone,
+              message:message,
+              
+              
+			 
+			  
+			},
+			function(data,status){
+			$("#name").val("");
+            $("#email").val("");
+            $("#phone").val("");
+            $("#message").val("");
+            
+             setTimeout(function(){
+                $(".ajax-loader").hide();
+				$("#ask_submit").val("Message Sent");
+				$("#ask_submit").css('color','#169EFD');
+				$("#ask_submit").attr("disabled", true);
+
+             },3000);
+
+            });
+			
+
+});
+
 </script>
+
+
+
 </body>
 
 

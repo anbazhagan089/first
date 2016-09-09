@@ -117,56 +117,56 @@ include('menu.php');
 	  <div class="col-sm-4 space-bottom text-center service-sub">
 			<i class="ion-ios7-lightbulb-outline "></i>
 			<h2>Digital Strategy</h2>
-			<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been... </p>
+			<p>At times it is what you do and at times it is what you don&#8216;t </p>
       </div>
 	  </a>
       <!-- end col-6 -->
       <a href="online-advertisement.php">
 	  <div class="col-sm-4 space-bottom text-center service-sub"> <i class="ion-ios7-cog-outline"></i>
         <h2>Online Advertising</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>Many a small thing has been made large by the right kind of advertising </p>
       </div>
 	  </a>
       <a href="technology.php">
       <div class="col-sm-4 space-bottom text-center service-sub"> <i class="ion-ios7-copy-outline"></i>
         <h2>Technology</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>We don	&#8216; t use technology, we live technology.. </p>
       </div>
 	  </a>
       <a href="social-media.php">
       <div class="col-sm-4  space-bottom text-center service-sub"> <i class="ion-android-social-user"></i>
         <h2>Social Media</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>Not a choice any more, it is a must.. </p>
       </div>
      </a>
       <a href="creative-solution.php">
       <div class="col-sm-4  space-bottom text-center service-sub"> <i class="ion-flask"></i>
         <h2>Creative Solutions</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>You can mimic a result but not the creativity.. </p>
       </div>
       </a>
       <a href="seo.php">
       <div class="col-sm-4  space-bottom text-center service-sub"> <i class="ion-ios7-pulse"></i>
         <h2>SEO</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>Driving the ROI in the best way possible.. </p>
       </div>
       </a>
       <a href="content-marketing.php">
       <div class="col-sm-4  space-bottom text-center service-sub"> <i class="ion-compose"></i>
         <h2>Content Marketing</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>In the kingdom of media, content will always remain the king.. </p>
       </div>
       </a>
       <a href="photography.php">
       <div class="col-sm-4  space-bottom text-center service-sub"> <i class="ion-camera"></i>
         <h2>Photography</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>Storytelling becomes better when conveyed via videos.. </p>
       </div>
      </a>
       <a href="videos.php">
       <div class="col-sm-4  space-bottom text-center service-sub"> <i class="ion-ios7-videocam"></i>
         <h2>Videos</h2>
-       <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been.. </p>
+       <p>Storytelling becomes better when conveyed via videos.. </p>
       </div>
 	  </a>
 	  

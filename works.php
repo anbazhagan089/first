@@ -104,7 +104,7 @@ include('menu.php');
   <!-- end container -->
   <ul class="grid swipe-rotate loaded" id="grid" style="position: relative; width: 1279.88px; height: 924.501px;">
     <li class="shown" style="position: absolute; left: 0px; top: 0px;"> <a href="works-detail.html">
-      <figure><img src="images/works/Concept.jpg" alt="image" style="animation-delay: 360.958ms;">
+      <figure><img src="images/works/concept.jpg" alt="image" style="animation-delay: 360.958ms;">
         <figcaption>
           <h3 style="animation-delay: 360.958ms;">CREALIVE HOTSITE</h3>
           <p>Branding/HTML</p>
@@ -113,7 +113,7 @@ include('menu.php');
       <div class="curtain" style="animation-delay: 360.958ms; background: rgb(254, 212, 188);"></div></a> </li>
     <!-- end li -->
     <li class="shown" style="position: absolute; left: 319px; top: 0px;"><a href="works-detail.html">
-      <figure><img src="images/works/Cycle2.jpg" alt="image" style="animation-delay: 458.611ms;">
+      <figure><img src="images/works/cycle2.jpg" alt="image" style="animation-delay: 458.611ms;">
         <figcaption>
           <h3 style="animation-delay: 458.611ms;">CREALIVE HOTSITE</h3>
           <p>Branding/HTML</p>

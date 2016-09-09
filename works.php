@@ -62,9 +62,20 @@ include('extra_head.php');
 include('menu.php');
 ?>
 <!-- Menu ends -->
+<<<<<<< HEAD
 <header class="inner">
  	<div class="content overlay">
     		<div class="centered">
+=======
+
+<header class="inner">
+ 	<div class="content overlay">
+
+<header class="inner changes">
+ 	<div class="content  overlay">
+
+    <div class="centered">
+>>>>>>> origin/design-branch
           <h1>Works</h1>
           <h5>WE MAKE PROJECT WITH PASSION</h5>
           </div>
@@ -102,115 +113,115 @@ include('menu.php');
     <!-- end row --> 
   </div>
   <!-- end container -->
-  <ul class="grid swipe-rotate loaded" id="grid" style="position: relative; width: 1279.88px; height: 924.501px;">
-    <li class="shown" style="position: absolute; left: 0px; top: 0px;"> <a href="works-detail.html">
-      <figure><img src="images/works/concept.jpg" alt="image" style="animation-delay: 360.958ms;">
-        <figcaption>
-          <h3 style="animation-delay: 360.958ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 360.958ms; background: rgb(254, 212, 188);"></div></a> </li>
-    <!-- end li -->
-    <li class="shown" style="position: absolute; left: 319px; top: 0px;"><a href="works-detail.html">
-      <figure><img src="images/works/cycle2.jpg" alt="image" style="animation-delay: 458.611ms;">
-        <figcaption>
-          <h3 style="animation-delay: 458.611ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-          </figcaption>
-      </figure><div class="curtain" style="animation-delay: 458.611ms; background: rgb(246, 210, 184);"></div></a> 
-    </li>
-    <!-- end li -->
-    <li class="shown" style="position: absolute; left: 639px; top: 0px;"><a href="works-detail.html">
-      <figure><img src="images/works/CoffeMug.jpg" alt="image" style="animation-delay: 495.773ms;">
-        <figcaption>
-          <h3 style="animation-delay: 495.773ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 495.773ms; background: rgb(251, 214, 187);"></div></a> </li>
-    <!-- end li -->
-    <li class="shown" style="position: absolute; left: 959px; top: 0px;"> <a href="works-detail.html">
-      <figure><img src="images/works/Coffee_bag.jpg" alt="image" style="animation-delay: 318.196ms;">
-        <figcaption>
-          <h3 style="animation-delay: 318.196ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 318.196ms; background: rgb(245, 208, 182);"></div></a> </li>
-    <!-- end li -->
-    <li style="position: absolute; left: 319px; top: 231px;"> <a href="works-detail.html">
-      <figure><img src="images/works/logo3.jpg" alt="image" style="animation-delay: 401.708ms;">
-        <figcaption>
-          <h3 style="animation-delay: 401.708ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 401.708ms; background: rgb(245, 208, 182);"></div></a> </li>
-    <!-- end li -->
-    <li style="position: absolute; left: 959px; top: 231px;"> <a href="works-detail.html">
-      <figure><img src="images/works/back 2.jpg" alt="image" style="animation-delay: 214.432ms;">
-        <figcaption>
-          <h3 style="animation-delay: 214.432ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 214.432ms; background: rgb(246, 210, 184);"></div></a> </li>
-    <!-- end li -->
-    <li style="position: absolute; left: 0px; top: 461px;"> <a href="works-detail.html">
+  <ul class="grid swipe-rotate loaded" id="grid" >
+  
+   <li > <a href="works-detail.html">
       <figure><img src="images/works/Banner.jpg" alt="image" style="animation-delay: 333.506ms;">
         <figcaption>
-          <h3 style="animation-delay: 333.506ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 333.506ms;">IPHONEWORKS CHENNAI</h3>
+          <p>Logo</p>
         </figcaption>
       </figure>
       <div class="curtain" style="animation-delay: 333.506ms; background: rgb(254, 212, 188);"></div></a> </li>
     <!-- end li -->
-    <li style="position: absolute; left: 639px; top: 461px;"><a href="works-detail.html">
-      <figure><img src="images/works/Cycle.jpg" alt="image" style="animation-delay: 338.774ms;">
+    <li class="shown col-md-3"><a href="works-detail.html">
+      <figure><img src="images/works/cycle2.jpg" alt="image" style="animation-delay: 458.611ms;">
         <figcaption>
-          <h3 style="animation-delay: 338.774ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 458.611ms;">CYCLE ZONE</h3>
+          <p>Banner</p>
           </figcaption>
-      </figure><div class="curtain" style="animation-delay: 338.774ms; background: rgb(246, 210, 184);"></div></a> 
+      </figure><div class="curtain" style="animation-delay: 458.611ms; background: rgb(246, 210, 184);"></div></a> 
     </li>
     <!-- end li -->
-    <li style="position: absolute; left: 319px; top: 462px;"><a href="works-detail.html">
-      <figure><img src="images/works/fb.jpg" alt="image" style="animation-delay: 156.197ms;">
+    
+    <li class="shown " > <a href="works-detail.html">
+      <figure><img src="images/works/Coffee_bag.jpg" alt="image" style="animation-delay: 318.196ms;">
         <figcaption>
-          <h3 style="animation-delay: 156.197ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 318.196ms;">MID STREET</h3>
+          <p>Banner</p>
         </figcaption>
       </figure>
-      <div class="curtain" style="animation-delay: 156.197ms; background: rgb(251, 214, 187);"></div></a> </li>
-    <!-- end li -->
-    <li style="position: absolute; left: 959px; top: 462px;"> <a href="works-detail.html">
-      <figure><img src="images/works/flyer-2.jpg" alt="image" style="animation-delay: 132.662ms;">
-        <figcaption>
-          <h3 style="animation-delay: 132.662ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 132.662ms; background: rgb(245, 208, 182);"></div></a> </li>
-    <!-- end li -->
-    <li style="position: absolute; left: 639px; top: 693px;"> <a href="works-detail.html">
-      <figure><img src="images/works/phamplet.jpg" alt="image" style="animation-delay: 436.681ms;">
-        <figcaption>
-          <h3 style="animation-delay: 436.681ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      <div class="curtain" style="animation-delay: 436.681ms; background: rgb(245, 208, 182);"></div></a> </li>
-    <!-- end li -->
-    <li style="position: absolute; left: 959px; top: 693px;"> <a href="works-detail.html">
+      <div class="curtain" style="animation-delay: 318.196ms; background: rgb(245, 208, 182);"></div></a>
+</li>
+    
+<!-- end li -->
+    
+<li class="shown "  > <a href="works-detail.html">
       <figure><img src="images/works/poster3.jpg" alt="image" style="animation-delay: 156.278ms;">
         <figcaption>
-          <h3 style="animation-delay: 156.278ms;">CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 156.278ms;">ESSENTIAL STUDIOS</h3>
+          <p>Banner</p>
         </figcaption>
       </figure>
       <div class="curtain" style="animation-delay: 156.278ms; background: rgb(246, 210, 184);"></div></a> </li>
     <!-- end li -->
+<li > <a href="works-detail.html">
+      <figure><img src="images/works/flyer-2.jpg" alt="image" style="animation-delay: 132.662ms;">
+        <figcaption>
+          <h3 style="animation-delay: 132.662ms;">Anand Tyres</h3>
+          <p>Banner</p>
+        </figcaption>
+      </figure>
+      <div class="curtain" style="animation-delay: 132.662ms; background: rgb(245, 208, 182);"></div></a> </li>
+    <!-- end li -->
+<li ><a href="works-detail.html">
+      <figure><img src="images/works/fb.jpg" alt="image" style="animation-delay: 156.197ms;">
+        <figcaption>
+          <h3 style="animation-delay: 156.197ms;">X&O Dating App</h3>
+          <p>Banner</p>
+        </figcaption>
+      </figure>
+      <div class="curtain" style="animation-delay: 156.197ms; background: rgb(251, 214, 187);"></div></a> </li>
+    <!-- end li -->
+    
+<li> <a href="works-detail.html">
+      <figure><img src="images/works/back2.jpg" alt="image" style="animation-delay: 214.432ms;">
+        <figcaption>
+          <h3 style="animation-delay: 214.432ms;">SPOTLIGHT MEDIAS</h3>
+          <p>Logo</p>
+        </figcaption>
+      </figure>
+      <div class="curtain" style="animation-delay: 214.432ms; background: rgb(246, 210, 184);"></div></a> </li>
+    <!-- end li -->
+   
+    <li ><a href="works-detail.html">
+      <figure><img src="images/works/cycle.jpg" alt="image" style="animation-delay: 338.774ms;">
+        <figcaption>
+          <h3 style="animation-delay: 338.774ms;">CYCLE WORLD</h3>
+          <p>Banner</p>
+          </figcaption>
+      </figure><div class="curtain" style="animation-delay: 338.774ms; background: rgb(246, 210, 184);"></div></a> 
+    </li>
+    <!-- end li -->
+<li class="shown " ><a href="works-detail.html">
+      <figure><img src="images/works/coffemug.jpg" alt="image" style="animation-delay: 495.773ms;">
+        <figcaption>
+          <h3 style="animation-delay: 495.773ms;">MID STREET</h3>
+          <p>Banner</p>
+        </figcaption>
+      </figure>
+      <div class="curtain" style="animation-delay: 495.773ms; background: rgb(251, 214, 187);"></div></a> </li>
+    <!-- end li -->
+    
+    <li class="shown " > <a href="works-detail.html">
+      <figure><img src="images/works/logo3.jpg" alt="image" style="animation-delay: 401.708ms;">
+        <figcaption>
+          <h3 style="animation-delay: 401.708ms;">ADDING SMILE</h3>
+          <p>Logo</p>
+        </figcaption>
+      </figure>
+      <div class="curtain" style="animation-delay: 401.708ms; background: rgb(245, 208, 182);"></div></a> </li>
+    <!-- end li -->
+    <li > <a href="works-detail.html">
+      <figure><img src="images/works/phamplet.jpg" alt="image" style="animation-delay: 436.681ms;">
+        <figcaption>
+          <h3 style="animation-delay: 436.681ms;">CHENNAI ROUTING KING</h3>
+          <p>Banner</p>
+        </figcaption>
+      </figure>
+      <div class="curtain" style="animation-delay: 436.681ms; background: rgb(245, 208, 182);"></div></a> </li>
+    <!-- end li -->
+    
   </ul>
   <!-- end ul --> 
 </section>
@@ -229,7 +240,7 @@ include('footer.php');
 <script src="js/jquery.min.js"></script> 
 <script type="text/javascript">
 $(window).load(function() {
-	$(".loader").fadeOut("fast");
+$(".loader").fadeOut("fast");
 })
 </script>
 

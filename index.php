@@ -4,10 +4,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>A10 digital</title>
+<title>A10 digital </title>
 <meta name="author" content="a10">
 <meta name="description" content="A10 digital - HTML5 digital creative agency template">
-<meta name="keywords" content="html, template, carousel, theme, zinho, agency, html5, look, fancy, premium">
+
 
 <!-- SOCIAL MEDIA META -->
 <meta property="og:description" content="ZER0 - HTML5 digital creative agency template">

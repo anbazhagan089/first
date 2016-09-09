@@ -117,7 +117,7 @@ include('menu.php');
   <ul class="grid swipe-rotate loaded" id="grid" >
   
    
-   <li ><a href="works-detail.html">
+   <li ><a href="iphoneworks.php">
       <figure><img src="images/works/Banner.jpg" alt="image" style="animation-delay: 333.506ms;">
         <figcaption>
           <h3 style="animation-delay: 333.506ms;">IPHONEWORKS CHENNAI</h3>
@@ -126,7 +126,7 @@ include('menu.php');
       </figure>
       <div class="curtain" style="animation-delay: 333.506ms; background: rgb(254, 212, 188);"></div></a> </li>
     <!-- end li -->
-    <li class="shown"><a href="works-detail.html">
+    <li class="shown"><a href="cycle-zone.php">
       <figure><img src="images/works/cycle2.jpg" alt="image" style="animation-delay: 458.611ms;">
         <figcaption>
           <h3 style="animation-delay: 458.611ms;">CYCLE ZONE</h3>
@@ -136,7 +136,7 @@ include('menu.php');
     </li>
     <!-- end li -->
     
-    <li class="shown " > <a href="works-detail.html">
+    <li class="shown " > <a href="mid-street.php">
       <figure><img src="images/works/Coffee_bag.jpg" alt="image" style="animation-delay: 318.196ms;">
         <figcaption>
           <h3 style="animation-delay: 318.196ms;">MID STREET</h3>
@@ -147,7 +147,7 @@ include('menu.php');
 </li>
     
 <!-- end li -->
-<li class="shown "  > <a href="works-detail.html">
+<li class="shown "  > <a href="essential-studio.php">
       <figure><img src="images/works/poster3.jpg" alt="image" style="animation-delay: 156.278ms;">
         <figcaption>
           <h3 style="animation-delay: 156.278ms;">ESSENTIAL STUDIOS</h3>
@@ -160,7 +160,7 @@ include('menu.php');
 	
 	
 	
-<li > <a href="works-detail.html">
+<li > <a href="anand-tyres.php">
       <figure><img src="images/works/flyer-2.jpg" alt="image" style="animation-delay: 132.662ms;">
         <figcaption>
           <h3 style="animation-delay: 132.662ms;">Anand Tyres</h3>
@@ -169,7 +169,7 @@ include('menu.php');
       </figure>
       <div class="curtain" style="animation-delay: 132.662ms; background: rgb(245, 208, 182);"></div></a> </li>
     <!-- end li -->
-	<li> <a href="works-detail.html">
+	<li> <a href="spot-light.php">
       <figure><img src="images/works/back2.jpg" alt="image" style="animation-delay: 214.432ms;">
         <figcaption>
           <h3 style="animation-delay: 214.432ms;">SPOTLIGHT MEDIAS</h3>
@@ -180,7 +180,7 @@ include('menu.php');
     <!-- end li -->
 
      
-	  <li ><a href="works-detail.html">
+	  <li ><a href="cycle-world.php">
       <figure><img src="images/works/cycle.jpg" alt="image" style="animation-delay: 338.774ms;">
         <figcaption>
           <h3 style="animation-delay: 338.774ms;">CYCLE WORLD</h3>
@@ -189,7 +189,7 @@ include('menu.php');
       </figure><div class="curtain" style="animation-delay: 338.774ms; background: rgb(246, 210, 184);"></div></a> 
     </li>
     <!-- end li -->
-	<li ><a href="works-detail.html">
+	<li ><a href="dating.php">
       <figure><img src="images/works/fb.jpg" alt="image" style="animation-delay: 156.197ms;">
         <figcaption>
           <h3 style="animation-delay: 156.197ms;">X&O Dating App</h3>
@@ -205,7 +205,7 @@ include('menu.php');
 	
 	
 	
-<li class="shown " ><a href="works-detail.html">
+<li class="shown " ><a href="mid-street2.php">
       <figure><img src="images/works/coffemug.jpg" alt="image" style="animation-delay: 495.773ms;">
         <figcaption>
           <h3 style="animation-delay: 495.773ms;">MID STREET</h3>
@@ -215,7 +215,7 @@ include('menu.php');
       <div class="curtain" style="animation-delay: 495.773ms; background: rgb(251, 214, 187);"></div></a> </li>
     <!-- end li -->
     
-    <li class="shown " > <a href="works-detail.html">
+    <li class="shown " > <a href="adding-smile.php">
       <figure><img src="images/works/logo3.jpg" alt="image" style="animation-delay: 401.708ms;">
         <figcaption>
           <h3 style="animation-delay: 401.708ms;">ADDING SMILE</h3>
@@ -224,7 +224,7 @@ include('menu.php');
       </figure>
       <div class="curtain" style="animation-delay: 401.708ms; background: rgb(245, 208, 182);"></div></a> </li>
     <!-- end li -->
-    <li > <a href="works-detail.html">
+    <li > <a href="chennai-routing-app.php">
       <figure><img src="images/works/phamplet.jpg" alt="image" style="animation-delay: 436.681ms;">
         <figcaption>
           <h3 style="animation-delay: 436.681ms;">CHENNAI ROUTING KING</h3>
@@ -234,7 +234,7 @@ include('menu.php');
       <div class="curtain" style="animation-delay: 436.681ms; background: rgb(245, 208, 182);"></div></a> </li>
     <!-- end li -->
 	
-	<li > <a href="works-detail.html">
+	<li > <a href="towel-factory.php">
       <figure><img src="images/works/towel-factory-logo.jpg" alt="image" style="animation-delay: 436.681ms;">
         <figcaption>
           <h3 style="animation-delay: 436.681ms;">TOWEL FACTORY</h3>

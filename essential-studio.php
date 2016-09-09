@@ -96,24 +96,18 @@ include('menu.php')
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2 class="main-title">Crealive digital</h2>
-        <h3 class="sub-title">We designed & developed a revolutionary agency site for Crealive with “search” at the core of the user experience.</h3>
+        <h2 class="main-title">Essential Studio</h2>
+        
       </div>
       <!-- end col-8 -->
       <div class="col-md-8 col-md-offset-2 text-justify">
         <ul class="works-detail-carousel">
-          <li><img src="images/works-detail1.jpg" alt="Image"></li>
-          <li><img src="images/works-detail2.jpg" alt="Image"></li>
-          <li><img src="images/works-detail3.jpg" alt="Image"></li>
+          <li><img src="images/works/poster3.jpg" alt="Image"></li>
         </ul>
         <!-- end ul -->
         <h3>Desription ;</h3>
-        <p>Based on Google Search Appliance the engine dynamically creates relevant content as quick & smart results, such as a pinned map when searching for a branch or current rates when searching for a foreign currency. </p>
-        <img src="images/imac-detail.jpg" alt="Image">
-        <h3>Details ;</h3>
-        <small>Client / YKB</small><br>
-        <small>Tags / Banking, BehaviorPad, Finance, Google Search Appliance</small><br>
-        <small>URL / www.crealive.com</small> </div>
+        <p>The banner created for Aloe Vera Healthy Drinks from Wellness Essentials, based in Chennai.. </p>
+       
       <!-- end col-8 --> 
     </div>
     <!-- end row --> 

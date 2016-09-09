@@ -179,7 +179,7 @@ include('menu.php');
     <!-- end li -->
    
     <li ><a href="works-detail.html">
-      <figure><img src="images/works/Cycle.jpg" alt="image" style="animation-delay: 338.774ms;">
+      <figure><img src="images/works/cycle.jpg" alt="image" style="animation-delay: 338.774ms;">
         <figcaption>
           <h3 style="animation-delay: 338.774ms;">CYCLE WORLD</h3>
           <p>Banner</p>
@@ -188,7 +188,7 @@ include('menu.php');
     </li>
     <!-- end li -->
 <li class="shown " ><a href="works-detail.html">
-      <figure><img src="images/works/CoffeMug.jpg" alt="image" style="animation-delay: 495.773ms;">
+      <figure><img src="images/works/coffemug.jpg" alt="image" style="animation-delay: 495.773ms;">
         <figcaption>
           <h3 style="animation-delay: 495.773ms;">MID STREET</h3>
           <p>Banner</p>

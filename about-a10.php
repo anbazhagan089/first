@@ -65,8 +65,10 @@ include('menu.php');
 <header class="inner">
  	<div class="content overlay">
     		<div class="centered">
-          <h1>About Us</h1>
-          <h5></h5>
+          <h1>About Us </h1>
+          
+          
+          <h5>Beacuse , it is important to know your digital partner</h5>
           </div>
            <!-- end centered -->
           </div>
@@ -93,7 +95,7 @@ include('menu.php');
   <div class="container">
     <div class="row">
       <div class="col-md-10 col-md-offset-1 text-center">
-        <h2 class="main-title">Learn More About A10 Digital</h2>
+        <h2 class="main-title">Know More About A10 Digital</h2>
         <h3 class="sub-title">We are a digital marketing agency based in Bangalore, India.
 We provide digital marketing ideas and support to the brands and help them get the best Return of Investments.</h3>
       </div>
@@ -102,17 +104,17 @@ We provide digital marketing ideas and support to the brands and help them get t
 	  
 	  <!-- end col-8 -->
 	  <div class="col-md-10 col-md-offset-1 text-center ">
-      <div class="col-sm-4"> <img src="images/2.svg" alt="Image">
+      <div class="col-sm-4 space-bottom text-center service-sub"> <img src="images/2.svg" alt="Image">
         <h4>Who we are?</h4>
         <p>A team of creative minds who believe in out of the box thinking and got a very high caffeine quotient in their system. More challenging the projects, more excited and happier we are… </p>
       </div>
       <!-- end col-4 -->
-      <div class="col-sm-4"> <img src="images/1.svg" alt="Image">
+      <div class="col-sm-4 space-bottom text-center service-sub"> <img src="images/1.svg" alt="Image">
         <h4>What we are up to?</h4>
         <p>We create and develop digital marketing ideas for our clients. Our focus is to provide the best ROI possible and client delight, in the form of  high traffic to the websites, sustain higher engagement rates and generate quality leads.  </p>
       </div>
       <!-- end col-4 -->
-      <div class="col-sm-4"> <img src="images/3.svg" alt="Image">
+      <div class="col-sm-4 space-bottom text-center service-sub"> <img src="images/3.svg" alt="Image">
         <h4>Where we want to be?</h4>
         <p>
 To grow together along with our clients and would like to see ourselves as the digital media partner for the topmost brands in the world. </p>

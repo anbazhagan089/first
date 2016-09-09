@@ -49,7 +49,7 @@ include('menu.php');
  	<div class="content overlay">
     		<div class="centered">
           <h1>Team</h1>
-          <h5>We are good in Branding</h5>
+          <h5 class="first-letter">Together Everyone Achieves More</h5>
           </div>
            <!-- end centered -->
           </div>
@@ -106,7 +106,7 @@ include('menu.php');
             <div class="col-sm-12"  style="font-family:  sans-serif;">
                   <h5>Founder & CEO</h5>
 			<h2>Anto Prashanth</h2>
-			<p class="text-justify">The mind behind the creation of A10 Digital. Has worked with many of the top brands in the country and has a rich experience in marketing and operations. A staunch believer of “You will get lucky only if you give your 100%”. </p>
+			
             </div>
       </div>
 	  <!-- end col-6 -->
@@ -118,7 +118,7 @@ include('menu.php');
             <div class="col-sm-12" style="font-family:  sans-serif;">
                   <h5> Director - Visuals</h5>
 			<h2>Selvaprakash</h2>
-			<p class="text-justify">A well-known name in the Indian Photography circle, Selva heads the visuals team.  Has won the Paris Match Award (2007), India Press Photo Award (2008), Robert Bosch Art Grant (2009-2010) and the NFI National Media fellowship (2011-2012). His works were exhibited at the 2008 World photojournalism festival (ChinaTOPS), Singapore International Photo Festival 2008 (SIPF), Angkor Photo festival( Projection) 2010 and Photovisa International Photo festival, Russia 2010, Noorderlicht International Photo festival 2011, Delhi Photo Festival 2011 and Lagos Photo Festival 2011.</p>
+			
             </div>
       </div>
      

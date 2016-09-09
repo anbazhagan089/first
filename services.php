@@ -65,8 +65,8 @@ include('menu.php');
 <header class="inner">
  	<div class="content overlay">
     		<div class="centered">
-          <h1>Services</h1>
-          <h5>The Services We Provide</h5>
+          <h1>Our Services</h1>
+          <h5>With the mix of passion, creativitity and care</h5>
           </div>
            <!-- end centered -->
           </div>
@@ -108,7 +108,7 @@ include('menu.php');
     <div class="row service-main">
 	  
 	  <div class="col-md-12">
-          <h2 class="main-title text-center">Services</h2>
+          <h2 class="main-title text-center">The services we provide to our valuable clients</h2>
         </div>
 	  
 	  

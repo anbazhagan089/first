@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A10 digital </title>
-<meta name="author" content="brandmoustache">
+<meta name="author" content="a10">
 <meta name="description" content="A10 digital - HTML5 digital creative agency template">
 
 

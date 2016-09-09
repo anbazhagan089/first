@@ -62,13 +62,8 @@ include('extra_head.php');
 include('menu.php');
 ?>
 <!-- Menu ends -->
-<<<<<<< Updated upstream
 <header class="inner">
  	<div class="content overlay">
-=======
-<header class="inner changes">
- 	<div class="content background-img1 overlay">
->>>>>>> Stashed changes
     		<div class="centered">
           <h1>Works</h1>
           <h5>WE MAKE PROJECT WITH PASSION</h5>

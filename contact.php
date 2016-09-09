@@ -66,7 +66,7 @@ include('menu.php')
  	<div class="content overlay">
     		<div class="centered">
           <h1>Ready for success?</h1>
-          <h5>NOW IT'S EASY TO REACH US</h5>
+          <h5>Reach us</h5>
           </div>
            <!-- end centered -->
           </div>
@@ -93,8 +93,8 @@ include('menu.php')
   <div class="container text-center">
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
-        <h2 class="main-title">Reach us</h2>
-        <h3 class="sub-title">If you are looking for a solid partner for your projects, send us an email. We’d love to talk to you!</h3>
+        <h2 class="main-title">NOW IT'S EASY TO REACH US</h2>
+        <h3 class="sub-title">If you are looking for a relieable partner for your projects to care of it as much as you, send us an email. We’d love to talk to you! </h3>
       </div>
       <!-- end col-8 -->
 	  
@@ -126,11 +126,11 @@ include('menu.php')
 			
 			<div class="vc_column-inner "><div class="wpb_wrapper">
 	<div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_top-to-bottom wpb_start_animation">
-		<div class="wpb_wrapper">
+		<div class="">
 		
 		</div>
 	</div>
-<div class="vc_empty_space" style="height: 40px"><span class="vc_empty_space_inner"></span></div>
+<div class="vc_empty_space" style="height: 0px"><span class="vc_empty_space_inner"></span></div>
 <div class="contact-icon">
 		<i class="icon_phone"></i>
 		<h3>CALL NOW</h3>

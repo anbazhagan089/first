@@ -63,7 +63,7 @@ include('menu.php');
 ?>
 <!-- Menu ends -->
 <header class="inner">
- 	<div class="content background-img1 overlay">
+ 	<div class="content overlay">
     		<div class="centered">
           <h1>Works</h1>
           <h5>WE MAKE PROJECT WITH PASSION</h5>
@@ -95,7 +95,7 @@ include('menu.php');
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
         <h2 class="main-title">Our porfolio</h2>
-        <h3 class="sub-title">The team regularly plays Fifa, enjoys music, interests in photography and offers its clients the best profitable projects for them.</h3>
+        <h3 class="sub-title" ">The team regularly plays Fifa, enjoys music, interests in photography and offers its clients the best profitable projects for them.</h3>
       </div>
       <!-- end col-8 --> 
     </div>

@@ -178,7 +178,7 @@ footer{ width:100%; float:left;}
 
 /* Main title */
 .main-title{ width:100%; display:inline-block; margin-top:0; margin-bottom:60px; position:relative; font-size:40px;}
-.main-title:before{content:''; width:320px; height:1px; float:left; background:#e2e2e3; position:absolute; left:50%; margin-left:-160px; bottom:-28px;}
+.main-title:before{content:''; width:320px; height:1px; float:left; background:#169EFD; position:absolute; left:50%; margin-left:-160px; bottom:-28px;}
 .main-title:after{content:''; width:48px; height:16px; background:url(../images/triangles.jpg) bottom no-repeat; position:absolute; left:50%; bottom:-35px; margin-left:-24px;}
 .sub-title{ font-size:24px; margin-bottom:60px; line-height:28px; color:#666; font-weight:normal; font-family:'Vollkorn', serif;}
 .zero-color{ color:#169EFD;}

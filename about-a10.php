@@ -57,10 +57,28 @@ include('menu.php');
     <div class="container">
       <div class="row">
         <div class="col-xs-12">
-         <nav class="navbar navbar-default navbar-header" role="navigation"> <a href="index.php"><img src="images/home/a10-white.png" width=150"alt="Image" class="logo"></a>
+         <nav class="navbar navbar-default  navbar-header" role="navigation">
+            <a href="index.php">
+          <img src="images/home/a10-white.png" width="150" alt="Image" class="logo" /></a>
+            
+            
+            
+            
             <button type="button" class="navbar-toggle toggle-menu menu-right push-body" data-toggle="collapse"> <i class="ion-navicon"></i> </button>
+            
+            <div class="col-md-6 hidden-sm hidden-xs" style="float: right; margin-top: 30px;">
+                  <ul class="social-media">
+                    <li><a target="_blank" href="http://www.facebook.com/a10digital"><i class="ion-social-facebook"></i></a></li>
+                    <li><a target="_blank" href="http://twitter.com/a10digital"><i class="ion-social-twitter"></i></a></li>
+                    <li><a target="_blank" href="http://www.instagram.com/a10digital"><i class="ion-social-instagram"></i></a></li>
+                     <li><a target="_blank" href="https://www.linkedin.com/company/a10-digital-marketing-solutions"><i class="ion-social-linkedin"></i></a></li>
+                     <li><a target="_blank" href="https://www.youtube.com/channel/UCC40BlEodDyY1KjPUdBRPuQ"><i class="ion-social-youtube"></i></a></li>
+                     <li><a target="_blank" href="https://plus.google.com/u/0/102489498587900067976"><i class="ion-icon-social-google-plus"></i></a></li>
+                  </ul>
+            </div>
+         
           </nav>
-          <!-- end nav --> 
+          <!-- end nav -->
         </div>
         <!-- end col-12 --> 
       </div>

@@ -4,26 +4,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>A10 digital </title>
-<meta name="author" content="a10">
-<meta name="description" content="A10 digital - HTML5 digital creative agency template">
-
-
-<!-- SOCIAL MEDIA META -->
-<meta property="og:description" content="ZER0 - HTML5 digital creative agency template">
-<meta property="og:image" content="http://www.acrocapoeira.com/zero/preview.png">
-<meta property="og:site_name" content="Zero">
-<meta property="og:title" content="Zero">
-<meta property="og:type" content="website">
-<meta property="og:url" content="">
-
-<!-- TWITTER META -->
-<meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="">
-<meta name="twitter:creator" content="">
-<meta name="twitter:title" content="A10 digital ">
-<meta name="twitter:description" content="A10 digital">
-<meta name="twitter:image" content="">
+<title>A10 digital Branding </title>
 
 <!-- CSS Files -->
 <link href="css/bootstrap.css" rel="stylesheet">

@@ -6,8 +6,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>A10 Digital Branding</title>
-<meta name="description" content="A10 digital - bangalore">
-<meta name="keywords" content="branding company, Bangalore">
+
 
 <!-- CSS Files -->
 <link href="css/bootstrap.css" rel="stylesheet">

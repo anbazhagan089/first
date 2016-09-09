@@ -1,3 +1,0 @@
-# first
-#binoj
-#anbu

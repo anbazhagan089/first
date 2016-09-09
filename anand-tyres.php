@@ -96,7 +96,7 @@ include('menu.php')
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2 class="main-title">Anand Tyre&#8216;s</h2>
+        <h2 class="main-title">Anand Tyre</h2>
         
       </div>
       <!-- end col-8 -->

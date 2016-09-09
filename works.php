@@ -118,7 +118,7 @@ include('menu.php');
   
    
    <li ><a href="iphoneworks.php">
-      <figure><img src="images/works/Banner.jpg" alt="image" style="animation-delay: 333.506ms;">
+      <figure><img src="images/works/banner.jpg" alt="image" style="animation-delay: 333.506ms;">
         <figcaption>
           <h3 style="animation-delay: 333.506ms;">IPHONEWORKS CHENNAI</h3>
           <p>Logo</p>

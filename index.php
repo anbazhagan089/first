@@ -128,7 +128,8 @@ include('menu.php');
       <!-- end col-8 -->
       <div class="col-sm-4"> <img src="images/2.svg" alt="Image">
         <h4>Who we are?</h4>
-        <p>A team of creative minds who believe in out of the box thinking and got a very high caffeine quotient in our systems. More challenging the projects, more excited and happier we are…" 2) under "what we are upto?" change the content to ... We create and develop digital marketing ideas for our clients. Our focus is to provide the best ROI possible and client delight, in the form of high traffic to websites, sustaining higher engagement rates and generating quality leads. 3) under "Where we want to be" change the content to.... "To grow together along with our clients and would like to see ourselves as the digital media partner for the topmost brands." 4) In the second banner section, change "Video Creation" to "Videos". 5) Under "Our Works" section change the content "Enjoys music, interests in photography and offers its clients the best profitable projects for them" to "We provide our clients the best profitable projects". 6)Change the "SEE ALL WORKS" to "CHECKOUT OUR WORKS </p>
+        <p>A team of creative minds who believe in out of the box thinking and got a very high caffeine quotient in our systems. More challenging the projects, more excited and happier we are…"
+        </p>
       </div>
       <!-- end col-4 -->
       <div class="col-sm-4"> <img src="images/1.svg" alt="Image">
@@ -189,68 +190,52 @@ To grow together along with our clients and would like to see ourselves as the d
   <div class="container wow bounceInUp">
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
-        <h2 class="main-title">Our works</h2>
-        <h3 class="sub-title">Enjoys music, interests in photography and offers its clients the best profitable projects for them.</h3>
-        <a href="works.php" class="btn-zero">SEE ALL WORKS</a> </div>
+        <h2 class="main-title">Our porfolio</h2>
+        <h3 class="sub-title" ">The team regularly plays Fifa, enjoys music, interests in photography and offers its clients the best profitable projects for them.</h3>
+      <a href="works.php" class="btn-zero">SEE ALL WORKS</a> </div>
       <!-- end col-8 --> 
     </div>
     <!-- end row --> 
   </div>
   <!-- end container -->
   <ul class="grid swipe-rotate" id="grid">
-    <li> <a href="images/work1.jpg" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers">
-      <figure><img src="images/work1.jpg" alt="image">
+   
+   
+   <li ><a href="iphoneworks.php">
+      <figure><img src="images/works/banner.jpg" alt="image" style="animation-delay: 333.506ms;">
         <figcaption>
-          <h3>CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 333.506ms;">IPHONEWORKS CHENNAI</h3>
+          <p>Logo</p>
         </figcaption>
       </figure>
       </a> </li>
     <!-- end li -->
-    <li> <a href="images/work2.jpg" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers">
-      <figure><img src="images/work2.jpg" alt="image">
+    <li class="shown "  > <a href="essential-studio.php">
+      <figure><img src="images/works/poster3.jpg" alt="image" style="animation-delay: 156.278ms;">
         <figcaption>
-          <h3>CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 156.278ms;">ESSENTIAL STUDIOS</h3>
+          <p>Banner</p>
         </figcaption>
       </figure>
-      </a> </li>
+      <div class="curtain" style="animation-delay: 156.278ms; background: rgb(246, 210, 184);"></div></a> </li>
     <!-- end li -->
-    <li> <a href="images/work3.jpg" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers">
-      <figure><img src="images/work3.jpg" alt="image">
+   <li > <a href="anand-tyres.php">
+      <figure><img src="images/works/flyer-2.jpg" alt="image" style="animation-delay: 132.662ms;">
         <figcaption>
-          <h3>CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 132.662ms;">Anand Tyres</h3>
+          <p>Banner</p>
         </figcaption>
       </figure>
-      </a> </li>
-    <!-- end li -->
-    <li> <a href="images/work4.jpg" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers">
-      <figure><img src="images/work4.jpg" alt="image">
+      <div class="curtain" style="animation-delay: 132.662ms; background: rgb(245, 208, 182);"></div></a> </li>
+   
+   <li> <a href="spot-light.php">
+      <figure><img src="images/works/back2.jpg" alt="image" style="animation-delay: 214.432ms;">
         <figcaption>
-          <h3>CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
+          <h3 style="animation-delay: 214.432ms;">SPOTLIGHT MEDIAS</h3>
+          <p>Logo</p>
         </figcaption>
       </figure>
-      </a> </li>
-    <!-- end li -->
-    <li> <a href="images/work4.jpg" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers">
-      <figure><img src="images/work4.jpg" alt="image">
-        <figcaption>
-          <h3>CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      </a> </li>
-    <!-- end li -->
-    <li> <a href="images/work2.jpg" class="fancybox" rel="lightbox" title="Enjoys music, interests in photography and offers">
-      <figure><img src="images/work2.jpg" alt="image">
-        <figcaption>
-          <h3>CREALIVE HOTSITE</h3>
-          <p>Branding/HTML</p>
-        </figcaption>
-      </figure>
-      </a> </li>
+      <div class="curtain" style="animation-delay: 214.432ms; background: rgb(246, 210, 184);"></div></a> </li>
     <!-- end li -->
   </ul>
   <!-- end ul --> 

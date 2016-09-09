@@ -102,7 +102,7 @@ include('menu.php')
       <!-- end col-8 -->
       <div class="col-md-8 col-md-offset-2 text-justify">
         <ul class="works-detail-carousel">
-          <li><img src="images/works/Banner.jpg" alt="Image"></li>
+          <li><img src="images/works/banner.jpg" alt="Image"></li>
         </ul>
         <!-- end ul -->
         <h3>Desription ;</h3>

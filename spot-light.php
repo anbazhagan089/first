@@ -96,7 +96,7 @@ include('menu.php')
   <div class="container">
     <div class="row">
       <div class="col-md-8 col-md-offset-2 text-center">
-        <h2 class="main-title">Cycle Zone</h2>
+        <h2 class="main-title">Spotlight Media</h2>
         
       </div>
       <!-- end col-8 -->

@@ -17,7 +17,7 @@ $message=addslashes($_POST['message']);
 
 
 <?php
-$to = "binoj@brandmoustache.com";
+$to = "anto@a10digital.com";
 $subject = "A10 Contact Form";
 
 $message = "

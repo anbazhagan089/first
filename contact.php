@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -91,7 +92,7 @@ include('menu.php')
 <p><span class="your-email"><input type="email" id="email"  name="email" value="" size="40" class="wpcf7-form-control wpcf7-text wpcf7-email wpcf7-validates-as-required wpcf7-validates-as-email" aria-required="true" aria-invalid="false" placeholder="E-mail*"></span> </p>
 <p><span class="your-phone"><input type="text" name="phone" id="phone" value="" size="40" class="wpcf7-form-control wpcf7-text" aria-invalid="false" placeholder="Phone*"></span></p>
 <p><span class="your-message"><textarea id="message" name="message" cols="40" rows="10" class="wpcf7-form-control wpcf7-textarea" aria-invalid="false" placeholder="Message or request"></textarea></span> </p>
-<p><input type="button" id="ask_submit" value="Send message" id="ask_submit">
+<p><input type="button" id="ask_submit" class="wpcf7-form-control wpcf7-submit" value="Send message" id="ask_submit">
 <img class="ajax-loader" src="images/ajax-loader.gif" alt="Sending ..." style="display:none;"></p>
 
 <div class="wpcf7-response-output wpcf7-display-none"></div></form></div>
@@ -274,7 +275,7 @@ $("#ask_submit").click(function(e) {
              setTimeout(function(){
                 $(".ajax-loader").hide();
 				$("#ask_submit").val("Message Sent");
-				$("#ask_submit").css('color','#169EFD');
+				
 				$("#ask_submit").attr("disabled", true);
 
              },3000);
